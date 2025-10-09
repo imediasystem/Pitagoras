@@ -3,6 +3,8 @@
 ## 🔥 Project Name - PITAGORAS
 See the live version of [PITAGORAS](https://imediasystem.github.io/Pitagoras/) ↗️
 
+Discover how modern design meets meticulous accounting! I'm excited for you to review the responsive website I built for your accounting firm, utilizing HTML, CSS, JavaScript, and Bootstrap. See for yourself how this sleek, user-friendly interface ensures a flawless experience on any device, instantly boosting client trust and accessibility.
+
 ## 📚 Technologies / Frameworks / Platforms / Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
