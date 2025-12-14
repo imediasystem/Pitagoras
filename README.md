@@ -1,4 +1,4 @@
-<img width="1902" height="926" alt="Zrzut ekranu 2025-10-23 103436" src="https://github.com/user-attachments/assets/449b29c8-075e-41a6-bb06-c3716406db78" />
+[<img width="1902" height="926" alt="Zrzut ekranu 2025-10-23 103436" src="https://github.com/user-attachments/assets/449b29c8-075e-41a6-bb06-c3716406db78" />](https://biuropitagoras.eu/)
 
 ## 🔥 Project Name - PITAGORAS
 See the live version of [PITAGORAS](https://biuropitagoras.eu/) ↗️
