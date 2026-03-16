@@ -1,7 +1,8 @@
 [<img width="1902" height="926" alt="Zrzut ekranu 2025-10-23 103436" src="https://github.com/user-attachments/assets/449b29c8-075e-41a6-bb06-c3716406db78" />](https://biuropitagoras.eu/)
 
 ## 🔥 Project Name - PITAGORAS
-See the live version of [PITAGORAS](https://biuropitagoras.eu/) ↗️
+
+[![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://biuropitagoras.eu/)
 
 Discover how modern design meets meticulous accounting! I'm excited for you to review the responsive website I built for your accounting firm, utilizing HTML, CSS, JavaScript, and Bootstrap. See for yourself how this sleek, user-friendly interface ensures a flawless experience on any device, instantly boosting client trust and accessibility.
 
