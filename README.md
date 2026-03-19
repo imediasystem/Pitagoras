@@ -4,7 +4,7 @@
 
 [![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://biuropitagoras.eu/)
 
-Discover how modern design meets meticulous accounting! I'm excited for you to review the responsive website I built for your accounting firm, utilizing HTML, CSS, JavaScript, and Bootstrap. See for yourself how this sleek, user-friendly interface ensures a flawless experience on any device, instantly boosting client trust and accessibility.
+Discover how modern design meets meticulous accounting! I'm excited for you to review the responsive website I built for your accounting firm, utilizing HTML5, CSS3, JavaScript and Bootstrap. See for yourself how this sleek, user-friendly interface ensures a flawless experience on any device, instantly boosting client trust and accessibility.
 
 ## 📚 Technologies / Frameworks / Platforms / Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
