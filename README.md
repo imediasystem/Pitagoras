@@ -6,6 +6,12 @@
 
 Discover how modern design meets meticulous accounting! I'm excited for you to review the responsive website I built for your accounting firm, utilizing HTML5, CSS3, JavaScript and Bootstrap. See for yourself how this sleek, user-friendly interface ensures a flawless experience on any device, instantly boosting client trust and accessibility.
 
+## 📚 Key Features
+* **Fully Responsive Design** – Looks great on mobile, tablet, and desktop.
+* **Video-Centric Layout** – Optimized for high-quality video backgrounds and portfolios.
+* **Performance Optimized** – Fast loading times for a seamless user experience.
+&nbsp;
+
 ## 📚 Technologies / Frameworks / Platforms / Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
